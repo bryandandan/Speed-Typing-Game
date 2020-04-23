@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Speed-Typing-Game/static/css/main.b100e6da.chunk.css",
+    "main.js": "/Speed-Typing-Game/static/js/main.322f515b.chunk.js",
+    "main.js.map": "/Speed-Typing-Game/static/js/main.322f515b.chunk.js.map",
+    "runtime-main.js": "/Speed-Typing-Game/static/js/runtime-main.e2d1a15a.js",
+    "runtime-main.js.map": "/Speed-Typing-Game/static/js/runtime-main.e2d1a15a.js.map",
+    "static/js/2.09a6ac6a.chunk.js": "/Speed-Typing-Game/static/js/2.09a6ac6a.chunk.js",
+    "static/js/2.09a6ac6a.chunk.js.map": "/Speed-Typing-Game/static/js/2.09a6ac6a.chunk.js.map",
+    "index.html": "/Speed-Typing-Game/index.html",
+    "precache-manifest.489f6deceef224b84d68e847f05f443f.js": "/Speed-Typing-Game/precache-manifest.489f6deceef224b84d68e847f05f443f.js",
+    "service-worker.js": "/Speed-Typing-Game/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/Speed-Typing-Game/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/Speed-Typing-Game/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e2d1a15a.js",
+    "static/js/2.09a6ac6a.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.322f515b.chunk.js"
+  ]
+}
